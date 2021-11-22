@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8C2742C7-53DB-2BE0-6BEF-DDCBD16476C6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/IgaguriGenerator.cs">
+    <Files>
+      <File FileName="Assets/IgaguriController.cs" Line="23" Column="1" />
+      <File FileName="Assets/IgaguriGenerator.cs" Line="17" Column="89" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c4d10e36-a07c-41f9-a354-65fd87b84e6f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
